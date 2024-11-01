@@ -4,14 +4,18 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
-    background-color: #f0f0f0;
+    background-color: #ffffff;
     font-family: Arial, sans-serif;
-    color: #333;
+    color: #ff0000;
 }
 
 header {
-    background-color: #333;
+    background-color: #ff0000;
     padding: 20px;
     text-align: center;
 }
@@ -19,7 +23,7 @@ header {
 h1 {
     font-size: 2.5em;
     font-weight: bold;
-    color: #fff;
+    color: #ffffff;
 }
 
 main div {

@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a slick modern website with cool CSS animations. The website aims to provide a visually appealing and interactive user experience with smooth animations and transitions. The topic of the website is modern art, showcasing various artworks and artists in a contemporary style.
+This project is a slick modern website with cool CSS animations. The website aims to provide a visually appealing and interactive user experience with smooth animations and transitions. The topic of the website is modern art, showcasing various artworks and artists in a contemporary style. Experience the passion, visuals, music, emotions, journey, and vibes.
 
 ## Setup and Run Instructions
 
