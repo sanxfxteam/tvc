@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a slick modern website with cool CSS animations. The website aims to provide a visually appealing and interactive user experience with smooth animations and transitions. The topic of the website is modern art, showcasing various artworks and artists in a contemporary style.
+This project is a slick modern website with cool CSS animations. The website aims to provide a visually appealing and interactive user experience with smooth animations and transitions. The topic of the website is modern art, showcasing various artworks and artists in a contemporary style. The project now includes `daisyUI` for enhanced styling and additional animations.
 
 ## Setup and Run Instructions
 
@@ -15,6 +15,15 @@ This project is a slick modern website with cool CSS animations. The website aim
    cd tvc
    ```
 3. Open `index.html` in your preferred web browser to view the website.
+
+## Including daisyUI and animations.css
+
+To include `daisyUI` and `animations.css` in your `index.html`, add the following lines in the `<head>` section:
+
+```html
+<link href="https://cdn.jsdelivr.net/npm/daisyui@2.0.0/dist/full.css" rel="stylesheet">
+<link rel="stylesheet" href="animations.css">
+```
 
 ## Contributing
 
